@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\source\\LU_repositories\\practica\\frontend\\frontend.csproj": {}
+  },
+  "projects": {
+    "C:\\source\\LU_repositories\\practica\\frontend\\frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\LU_repositories\\practica\\frontend\\frontend.csproj",
+        "projectName": "frontend",
+        "projectPath": "C:\\source\\LU_repositories\\practica\\frontend\\frontend.csproj",
+        "packagesPath": "C:\\Users\\DANIELA\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\LU_repositories\\practica\\frontend\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DANIELA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
